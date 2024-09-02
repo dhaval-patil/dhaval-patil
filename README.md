@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN Project**
 
-- 🌱 I’m currently learning **MERN, Data structures & Alogorithm**
+- 🌱 I’m currently learning **MERN, Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)**
 
 - 📝 I regularly write articles on [https://medium.com/@d22it209](https://medium.com/@d22it209)
 
