@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **MERN, Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)**
 
-- 📝 I regularly write articles on [https://medium.com/@d22it209](https://medium.com/@d22it209)
+- 📝 I regularly write Blogs on [Medium](https://medium.com/@d22it209)
 
 - 📫 How to reach me **dhavalpatil365@gmail.com**
+
+- 📝 [Resume](https://drive.google.com/file/d/13ZuiYszjIA9Eema9h7XM9c6LrHKQaCE7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
