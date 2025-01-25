@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dhavalpatil365@gmail.com**
 
-- 📝 [Resume](https://drive.google.com/file/d/13ZuiYszjIA9Eema9h7XM9c6LrHKQaCE7/view?usp=sharing)
+- 📝 [Resume]([https://drive.google.com/file/d/13ZuiYszjIA9Eema9h7XM9c6LrHKQaCE7/view?usp=sharing](https://drive.google.com/file/d/12TD8rKrOjDQS_l2p_9_scwi7JZfHNsxG/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
